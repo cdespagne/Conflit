@@ -1,7 +1,7 @@
 <?php
 Function somme(x, y) {
-    // CD correction - par +
-    calcul = x + y;
+    // CD erreur volontaire
+    calcul = x * y;
     return calcul;
 }
 ?>
